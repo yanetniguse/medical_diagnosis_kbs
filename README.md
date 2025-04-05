@@ -35,13 +35,16 @@ This project is a **Knowledge-Based System (KBS)** designed to simulate a medica
 
 ---
 
-## 🖼️ Screenshots (optional)
 
+
+## 📸 Screenshots
 - 💡 *System Running*: Example of user inputs and diagnosis output  
 - 📂 *Patient History File*: JSON showing past diagnoses and visit records  
 - 🧪 *Code Execution*: Demo of the script running in a Python IDE
 
-*(You can include these screenshots in a `/screenshots/` folder in your repo.)*
+### 🧪 Code Execution in IDE
+![Code Execution](screenshots/diagnosis_running05.png)
+
 
 ---
 
