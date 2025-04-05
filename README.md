@@ -6,7 +6,7 @@ A rule-based system that mimics expert medical decision-making by using symptoms
 
 ## 👤 Author  
 **Yanet Niguse Tesfay**  
-📅 **Date:** 2 June 2025
+📅 **Date:** 7 Feb 2025
 
 ---
 
